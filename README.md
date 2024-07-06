@@ -3,7 +3,8 @@
 ## Overview
 CodeEx is a Chrome extension designed to provide users with quick access to details about upcoming contests and the ratings of their friends on Codeforces.
 ## Extension Icon
-![Extension Icon](icon.png)
+![icon](https://github.com/GarvitBhalla/code-ex/assets/169756825/5d1dc853-796d-4d43-9bd6-0848eba10c74)
+
 
 ## Features
 - Displays upcoming contests on Codeforces.
