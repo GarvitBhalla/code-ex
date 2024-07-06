@@ -21,5 +21,6 @@ Once installed, you will see the CF Shortcut icon on the top right corner of you
 
 ## Screenshots
 ### Extension in Action
-![Extension in Action](cf_shortcut.png)
+
+![cf_shortcut](https://github.com/GarvitBhalla/code-ex/assets/169756825/bd367856-5416-4aaf-ab69-543df9e49885)
 
